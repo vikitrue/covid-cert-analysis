@@ -523,3 +523,16 @@ Expiration: 2022-02-09 23:00:00 UTC
 Personal Name: Live Austgard
 DOB: 1993-09-20
 ```
+## samples/leaked/046.txt:
+
+![Certificate samples/leaked/046.txt](samples/leaked/046.png)
+
+```plain
+VR 0: C=ES,ID=01ES11V1D2DB272A808AC50D252C#5,ISS=Servicio Andaluz de Salud
+KID: 3IsdmTYkAAM=
+Issued At: 2021-12-17 10:36:17 UTC
+Signed By: SERIALNUMBER=Q0600413I,CN=Servicio Andaluz de Salud,OU=SELLO ELECTRONICO+OU=SSII,O=Servicio Andaluz de Salud,C=ES,2.5.4.97=#130f56415445532d513036303034313349 (issued by: CN=EADTrust ECC 256 SubCA For Qualified Certificates 2019,OU=Legal Person,O=European Agency of Digital Trust\, S.L.,C=ES,2.5.4.97=#130f56415445532d423835363236323430)
+Expiration: 2023-12-17 06:43:00 UTC
+Personal Name: MARIA VICTORIA JIMENEZ MORENO
+DOB: 1968-04-02
+```
